@@ -1,23 +1,23 @@
 # top20-js-plugins
 Коллекция крутых плагинов, написаных на Vanilla JavaScript.
 
-- Overlay Scrollbar: https://kingsora.github.io/OverlayScrollbars/#!overview
-- Chart.xkcd: https://timqian.com/chart.xkcd/
-- fullPage.js: https://alvarotrigo.com/fullPage/
-- TypeIt: https://github.com/alexmacarthur/typeit
-- Moveable: https://github.com/daybrush/moveable
-- Simple Parallax: https://simpleparallax.com
-- CreepyFace: https://creepyface.io
-- Choreographer: https://christinecha.github.io/choreographer-js/
-- Uppy: https://uppy.io
-- Loud Links: https://loudlinks.rocks
-- Lax: https://github.com/alexfoxy/lax.js
-- TextBlock: http://textblock.io
-- Scene.js: https://daybrush.com/scenejs/
-- Baguettbox: https://feimosi.github.io/baguetteBox.js/
-- Editor.js: https://editorjs.io
-- MicroLight: https://asvd.github.io/microlight/
-- FlatPicker: https://flatpickr.js.org
-- Darkmode.js: https://darkmodejs.learn.uno
-- Bun.js: https://bun.js.org
-- Bricks.js: http://callmecavs.com/bricks.js/
+- Overlay Scrollbar: https://kingsora.github.io/OverlayScrollbars/#!overview (скрывает нативный браузерный скролл и добавляет новый, который можно стилизировать)
+- Chart.xkcd: https://timqian.com/chart.xkcd/ (упрощает работу с графиками)
+- fullPage.js: https://alvarotrigo.com/fullPage/ (полностраничный слайдер для навигации по сайту)
+- TypeIt: https://github.com/alexmacarthur/typeit (создает эффект печатания/набора текста)
+- Moveable: https://github.com/daybrush/moveable (перемещение элементов на странице)
+- Simple Parallax: https://simpleparallax.com (плагин добавляет эффект параллакса на страницу)
+- CreepyFace: https://creepyface.io (слежение за курсором)
+- Choreographer: https://christinecha.github.io/choreographer-js/ (плагин позволяет создавать и настраивать сложные анимации)
+- Uppy: https://uppy.io (файл аплоадер, кроме основной задачи - загрузка файлов с ПК пользователя может работать с GoogleDrive, DropBox, Instagram)
+- Loud Links: https://loudlinks.rocks (позволяет добавлять звуки на интерактивные элементы)
+- Lax: https://github.com/alexfoxy/lax.js (плагин позволяет создавать и настраивать анимации, он поддерживает только одно действие - скролл)
+- TextBlock: http://textblock.io (для работы со шрифтами - накладывает стили поверх основного файла .css)
+- Scene.js: https://daybrush.com/scenejs/ (плагин для анимации - куча свойств, работает с SVG элементами и 3D анимациями)
+- Baguettbox: https://feimosi.github.io/baguetteBox.js/ (галерея изображений с поддержкой клавиатурного и touch-управлений, поддерка респонсив и полноэкранного режима просмотра изображений)
+- Editor.js: https://editorjs.io (текстовый редактор, который можно интегрировать на страницу)
+- MicroLight: https://asvd.github.io/microlight/ (плагин для подсветки синтаксиса различных языков программирования)
+- FlatPicker: https://flatpickr.js.org (переключатели выбора дат)
+- Darkmode.js: https://darkmodejs.learn.uno (добавляет темную тему)
+- Bun.js: https://bun.js.org (плагин и сервис, который помогает сгенерировать пользовательские стили для радиокнопок и чекбоксов)
+- Bricks.js: http://callmecavs.com/bricks.js/ (плагин для masonry сеток)
