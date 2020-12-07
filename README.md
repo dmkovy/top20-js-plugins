@@ -29,6 +29,14 @@
 - [Bun.js:](https://bun.js.org) *плагин и сервис, который помогает сгенерировать пользовательские стили для радиокнопок и чекбоксов*
 - [Bricks.js:](http://callmecavs.com/bricks.js/) *плагин для masonry сеток.*
 - [Isotope:](https://isotope.metafizzy.co/) *простая, но функциональная masonry-сетка с сортировкой и фильтрацией элементов.*
+- [Leaflet.js](https://leafletjs.com/) *карты*
+- [D3.js](https://d3js.org/) *инфографика*
+- [Three.js](https://threejs.org/) *[Портфолио с машинкой -](https://bruno-simon.com/)*
+- [Immutable.js](https://immutable-js.github.io/immutable-js/) *[Про иммутабельность -](https://habr.com/ru/company/devexpress/blog/302118/)*
+- [Hammer.js](https://hammerjs.github.io/) *для работы с сенсорными/моб устройствами*
+- [Moment.js](https://momentjs.com/) *для работы с датой и временем*
+- [Highlight.js](https://highlightjs.org/) *подстветка кода в DOM-структуре*
+- [Voca.js](https://vocajs.com/) *гибко и удобно работать со строками. Модифицировать, обрезать, проверять, получать части строк, латинизировать строки!!*
 
 # top25-services-for-web-developers
 ## Крутой и объёмный справочник полезных ресурсов для веб-разработки и не только.
